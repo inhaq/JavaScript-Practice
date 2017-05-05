@@ -4,6 +4,8 @@
 // 0 => true
 // -2 => true
 
+// Check If Number Is Less Than Or Equal To Zero
+
 function lessThanOrEqualToZero(num) {
 var num;
   if(num > 0){
