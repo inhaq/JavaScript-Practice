@@ -5,6 +5,8 @@
 // 13 => 91
 // 600 => 180300
 
+// Add Up The Numbers From A Single Number
+
 function addUp(num) {
   if (num === 1){
       return 1;
