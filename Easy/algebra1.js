@@ -3,7 +3,6 @@
 // 5 => false
 // 0 => true
 // -2 => true
-
 // Check If Number Is Less Than Or Equal To Zero
 
 function lessThanOrEqualToZero(num) {
