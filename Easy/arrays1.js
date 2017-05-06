@@ -10,6 +10,8 @@
 // ['cat', 'dog', 'duck'] => 'duck'
 // [true, false, true] => true
 
+// Return The Last Item In An Array
+
 function getLastItem(arr) {
     return arr[arr.length - 1];
 }
